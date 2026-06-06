@@ -154,11 +154,3 @@ gesture-control/
 ## 📄 Lisensi
 
 Proyek ini dibangun untuk tujuan edukasi dan open-source. Bebas untuk dimodifikasi dan dikembangkan lebih lanjut. *Catatan: Model MediaPipe dilisensikan dan dikelola oleh Google.*
-
-```
-
-**Tips Tambahan sebelum Anda mengunggahnya:**
-1. Ganti tulisan `USERNAME` pada bagian instalasi dengan *username* GitHub Anda.
-2. Buat sebuah GIF berdurasi 5-10 detik saat Anda menggunakan aplikasi ini (Anda bisa menggunakan *software* seperti ScreenToGif), simpan di folder repositori, dan ubah *link* pada bagian `![Demo Aplikasi](...)` agar mengarah ke file GIF tersebut (misalnya: `![Demo Aplikasi](assets/demo.gif)`). Visual yang bergerak akan membuat pengunjung GitHub langsung paham betapa kerennya proyek ini!
-
-```
