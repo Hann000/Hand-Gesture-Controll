@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🖐️ PC Gesture Control
@@ -50,19 +49,8 @@ Sistem menggunakan "Mode Eksklusif". Tahan gestur pengalih mode selama **~0.7 de
 
 Clone repositori ini dan masuk ke dalam foldernya:
 ```bash
-git clone [https://github.com/Hann000/Hand-Gesture-Controll.git](https://github.com/Hann000/Hand-Gesture-Controll.git)
-cd gesture-control```
-
-Buat dan aktifkan *Virtual Environment* (Direkomendasikan):
-
-```bash
-# Untuk Windows:
-python -m venv venv
-venv\Scripts\activate
-
-# Untuk macOS / Linux:
-python -m venv venv
-source venv/bin/activate
+git clone [https://github.com/Hann008/Hand-Gesture-Controll.git](https://github.com/Hann008/Hand-Gesture-Controll.git)
+cd Hand-Gesture-Controll
 
 ```
 
