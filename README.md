@@ -14,12 +14,6 @@ Dibangun menggunakan **Python**, **OpenCV**, dan pelacakan canggih dari **MediaP
 
 ---
 
-## 🎬 Demo
-
-*(💡 Tips: Ganti tautan gambar di bawah dengan file `.gif` yang merekam layar saat Anda menggunakan aplikasi ini agar orang langsung paham cara kerjanya!)*
-
-![Demo Aplikasi](https://via.placeholder.com/800x400.png?text=Upload+GIF+Demo+Aplikasi+Anda+Di+Sini)
-
 > **Antarmuka Cerdas (HUD):** Aplikasi ini menampilkan overlay HUD informatif langsung di *feed* kamera Anda. Dilengkapi dengan **Mode Eksklusif**, memastikan hanya satu fitur yang aktif pada satu waktu sehingga gestur Anda tidak akan saling tumpang tindih atau bentrok.
 
 ---
