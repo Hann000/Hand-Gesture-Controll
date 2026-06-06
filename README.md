@@ -50,10 +50,8 @@ Sistem menggunakan "Mode Eksklusif". Tahan gestur pengalih mode selama **~0.7 de
 
 Clone repositori ini dan masuk ke dalam foldernya:
 ```bash
-git clone [https://github.com/USERNAME/gesture-control.git](https://github.com/USERNAME/gesture-control.git)
-cd gesture-control
-
-```
+git clone [https://github.com/Hann000/Hand-Gesture-Controll.git](https://github.com/Hann000/Hand-Gesture-Controll.git)
+cd gesture-control```
 
 Buat dan aktifkan *Virtual Environment* (Direkomendasikan):
 
